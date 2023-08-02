@@ -220,10 +220,13 @@ header {
 
 .btn-hero:link,
 .btn-hero:visited {
-  background: #5f5e5d;
-  border-color: #5f5e5d;
+  background: #535353;
+  border-color: #d6d1d1;
 }
-
+.btn-hero:hover {
+  box-shadow: 0 0 1rem #292d2e;
+  transition: .5s ease;
+}
 /* Mobail menu */
 
 .mobail-menu span {
@@ -421,7 +424,7 @@ header {
   background: #1b1750;
 }
 .service-section .s-box{
-  background: rgb(195, 193, 193);
+  background: rgb(195, 193, 193, 0.7);
   margin: 1px;
   padding-top: 1.5rem;
   height: 120px;
@@ -440,11 +443,10 @@ header {
 
 .glance-section{
   text-align: center;
-  background: linear-gradient(rgba(255, 255, 255, 0.9),rgba(225, 215, 215, 0.9)),url(img/Prothoma.JPG);
+  background: linear-gradient(rgba(255, 255, 255, 0.8),rgba(181, 183, 182, 0.8)),url(img/Prothoma.JPG);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-attachment: fixed;
 }
 .glance-section h2 {
   color: #17183e;

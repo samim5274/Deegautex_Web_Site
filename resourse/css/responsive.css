@@ -23,7 +23,7 @@
   }
   html{
     font-size: 57.5%;
-  }
+  }  
   .client-photo{
     width: 100%;
     float: none;
@@ -53,7 +53,7 @@
     font-size: 62.5%;
   }
   .service-section .s-box{
-    background: #868d8d;
+    background: rgb(195, 193, 193, 0.7);
     margin: 1px;
     height: 100%;
     color: #191846;
