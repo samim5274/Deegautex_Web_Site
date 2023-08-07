@@ -90,7 +90,7 @@ h4 {
 /* paragraph */
 
 .littel-discription {
-  font-size: 1.5rem;  
+  font-size: 1.5rem;
   color: #fff;
   line-height: 2rem;
   margin: 0 0 2rem 2.5rem;
@@ -304,7 +304,7 @@ header {
 }
 #homeinfo h3,h1{
   font-weight: bold;
-  color: #201d49;    
+  color: #201d49;
 }
 #homeinfo .discription{
   color:rgb(86, 85, 85,0.9);
@@ -320,7 +320,7 @@ header {
 
 /*  service section start  */
 
-/* 
+/*
 .services-section {
   color: #fff;
   text-align: center;
@@ -349,7 +349,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: center center;  
+  background-position: center center;
 }
 .customer-section h2,
 .customer-section h3{
@@ -415,7 +415,7 @@ header {
 }
 .service-section h2,
 .service-section h3{
-  color: #2f2b5d; 
+  color: #2f2b5d;
 }
 .service-section .sr-row{
   padding: 8rem 0 8rem 0;
@@ -660,5 +660,3 @@ header {
 }
 
 /* Footer section End */
-
-
